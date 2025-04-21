@@ -4,7 +4,7 @@ description: "This post is for testing the draft post functionality"
 publishDate: "1998-07-27"
 tags: ["示例"]
 draft: true
-ogImage: "/social-card.avif"
+ogImage: "/social-card.png"
 ---
 
 如果你的文章还未完成
@@ -20,6 +20,6 @@ description: "This post is for testing the draft post functionality"
 publishDate: "1998-07-27"
 tags: ["示例"]
 draft: true
-ogImage: "/social-card.avif"
+ogImage: "/social-card.png"
 ---
 ```

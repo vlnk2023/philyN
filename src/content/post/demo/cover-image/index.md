@@ -6,7 +6,7 @@ coverImage:
   src: "./cover.png"
   alt: "封面图"
 tags: ["示例"]
-ogImage: "/social-card.avif"
+ogImage: "/social-card.png"
 ---
 
 ## 添加封面图
@@ -22,7 +22,7 @@ coverImage:
   src: "./cover.png"
   alt: "封面图"
 tags: ["示例"]
-ogImage: "/social-card.avif"
+ogImage: "/social-card.png"
 ---
 
 ```
